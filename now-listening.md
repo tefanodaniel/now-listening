@@ -1,4 +1,4 @@
-[https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS](https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS)
+[![Album 1]('img/ptvjol.png')](https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS)
 
 https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP
 
